@@ -1,11 +1,10 @@
-<h1 align="center">Hey, I'm iclapcheeks!</h1>
+<h1 align="center">👋 Hey, I'm clap! 👋</h1>
 
 <div align="center">
 
- Developer for 5+ years <br>
- GFX Designer for 3+ years <br>
- Reverse Engineer for 1 year <br>
- UI/UX Designer for 3 months <br>
+<li>Developer for 5+ years</li>
+<li>GFX Designer for 3+ years</li>
+<li>Reverse Engineer for 1 year</li>
 
  ## Contact Me
  Discord: clap#7349 <br>
