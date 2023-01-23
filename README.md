@@ -10,6 +10,6 @@
 <li>Telegram: @clapcheeks</li>
 <br>
 
-![iclapcheeks's GitHub stats](https://github-readme-stats.vercel.app/api?username=iclapcheeks&show_icons=true&theme=tokyonight&line_height=33&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&enable_animations=true")
-![iclapcheeks's Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclapcheeks&langs_count=4&theme=tokyonight&line_height=35&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&enable_animations=true&hide=cmake)
+![iclapcheeks's GitHub stats](https://github-readme-stats.vercel.app/api?username=clap-dev&show_icons=true&theme=tokyonight&line_height=33&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&enable_animations=true")
+![iclapcheeks's Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clap-dev&langs_count=4&theme=tokyonight&line_height=35&bg_color=00000000&hide_title=true&hide_border=true&count_private=true&enable_animations=true&hide=cmake)
 </div>
