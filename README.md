@@ -11,8 +11,7 @@ To see more of my work, check out my [Portfolio](https://lambent-taffy-c0a3d8.ne
 ![](https://custom-icon-badges.herokuapp.com/github/followers/clap-dev?color=8ac6ff&labelColor=1b1f29&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)
 ![](https://custom-icon-badges.herokuapp.com/github/stars/clap-dev?color=8ac6ff&labelColor=1b1f29&style=for-the-badge&logo=person-add&label=Stars&logoColor=white)
 
-![](https://skillicons.dev/icons?i=tailwind,bootstrap,py,js,bash,git)
-![](https://skillicons.dev/icons?i=cpp,c,golang,github,atom,vscode)
+![](https://skillicons.dev/icons?i=tailwind,py,js,cpp,golang,atom)
 
 
 <hr>
